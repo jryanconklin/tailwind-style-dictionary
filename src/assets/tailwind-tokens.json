@@ -4,22 +4,22 @@
     "white": "#FFFFFF",
     "gold": "#E3B121",
     "orange": "#E97135",
-    "brand": "#78A1BB",
-    "brandLight": "#EBF5EE",
-    "brandDark": "#283044",
+    "brand": {
+      "light": "#EBF5EE",
+      "base": "#78A1BB",
+      "dark": "#283044"
+    },
     "red": "#C40C0C",
     "green": "#00A860",
-    "neutral": {
-      "gray": {
-        "1": "#44494B",
-        "2": "#5D6165",
-        "3": "#C5CACE",
-        "4": "#DFE4E7",
-        "5": "#F5F8FA"
-      },
-      "transparent": "transparent",
-      "current": "currentColor"
-    }
+    "gray": {
+      "1": "#44494B",
+      "2": "#5D6165",
+      "3": "#C5CACE",
+      "4": "#DFE4E7",
+      "5": "#F5F8FA"
+    },
+    "transparent": "transparent",
+    "current": "currentColor"
   },
   "spacing": {
     "0": "0",

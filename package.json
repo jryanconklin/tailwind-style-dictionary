@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Demo to show Style Dictionary, Tailwind, and CSS Custom Properties.",
   "scripts": {
+    "build": "parcel build src/index.html",
     "serve": "parcel serve src/index.html",
     "start": "concurrently -c \"#78A1BB,#E3B121\" \"npm:serve\" \"npm:tw.watch\"",
     "tokens": "style-dictionary build --config style-dictionary.config.json",
