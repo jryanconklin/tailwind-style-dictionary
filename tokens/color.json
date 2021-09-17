@@ -4,10 +4,9 @@
     "white": { "value": "#FFFFFF" },
     "gold": { "value": "#E3B121" },
     "orange": { "value": "#E97135" },
-    "brand": { "value": "#00A7E1" },
-    "brandAccessible": { "value": "#007EA8" },
-    "brandLight": { "value": "#B3EFFF" },
-    "brandDark": { "value": "#003B5D" },
+    "brand": { "value": "#78A1BB" },
+    "brandLight": { "value": "#EBF5EE" },
+    "brandDark": { "value": "#283044" },
     "red": { "value": "#C40C0C" },
     "green": { "value": "#00A860" },
     "neutral": {

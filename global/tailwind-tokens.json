@@ -4,10 +4,9 @@
     "white": "#FFFFFF",
     "gold": "#E3B121",
     "orange": "#E97135",
-    "brand": "#00A7E1",
-    "brandAccessible": "#007EA8",
-    "brandLight": "#B3EFFF",
-    "brandDark": "#003B5D",
+    "brand": "#78A1BB",
+    "brandLight": "#EBF5EE",
+    "brandDark": "#283044",
     "red": "#C40C0C",
     "green": "#00A860",
     "neutral": {
