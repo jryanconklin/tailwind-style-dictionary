@@ -1,12 +1,12 @@
 {
-  "source": ["tokens/**/*.json"],
+  "source": ["src/assets/tokens/**/*.json"],
   "platforms": {
     "css": {
       "transformGroup": "css",
-      "buildPath": "global/",
+      "buildPath": "src/",
       "files": [
         {
-          "destination": "css/base/_variables.css",
+          "destination": "assets/css/base/_variables.css",
           "format": "css/variables",
           "options": {
             "showFileHeader": false
@@ -16,10 +16,10 @@
     },
     "tailwind": {
       "transformGroup": "js",
-      "buildPath": "global/",
+      "buildPath": "src/",
       "files": [
         {
-          "destination": "tailwind-tokens.json",
+          "destination": "assets/tailwind-tokens.json",
           "format": "json/nested"
         }
       ]

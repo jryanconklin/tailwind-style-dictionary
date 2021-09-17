@@ -1,9 +1,9 @@
-const tokens = require('./global/tailwind-tokens.json');
+const tokens = require('./src/assets/tailwind-tokens.json');
 
 module.exports = {
   mode: 'jit',
   purge: [
-    './index.html',
+    './src/index.html',
   ],
   darkMode: false, // or 'media' or 'class'
   theme: {
