@@ -1,0 +1,33 @@
+:root {
+  --colors-black: #010101;
+  --colors-white: #FFFFFF;
+  --colors-gold: #E3B121;
+  --colors-orange: #E97135;
+  --colors-brand: #00A7E1;
+  --colors-brand-accessible: #007EA8;
+  --colors-brand-light: #B3EFFF;
+  --colors-brand-dark: #003B5D;
+  --colors-red: #C40C0C;
+  --colors-green: #00A860;
+  --colors-neutral-gray-1: #44494B;
+  --colors-neutral-gray-2: #5D6165;
+  --colors-neutral-gray-3: #C5CACE;
+  --colors-neutral-gray-4: #DFE4E7;
+  --colors-neutral-gray-5: #F5F8FA;
+  --colors-neutral-transparent: transparent;
+  --colors-neutral-current: currentColor;
+  --spacing-0: 0;
+  --spacing-px: 1px;
+  --spacing-2xs: 0.25rem;
+  --spacing-xs: 0.5rem;
+  --spacing-sm: 0.75rem;
+  --spacing-base: 1rem;
+  --spacing-md: 1.5rem;
+  --spacing-lg: 2rem;
+  --spacing-xl: 3rem;
+  --spacing-2xl: 4rem;
+  --spacing-3xl: 6rem;
+  --spacing-4xl: 8rem;
+  --spacing-5xl: 12rem;
+  --spacing-6xl: 16rem;
+}

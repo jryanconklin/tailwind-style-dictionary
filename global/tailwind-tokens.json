@@ -1,0 +1,41 @@
+{
+  "colors": {
+    "black": "#010101",
+    "white": "#FFFFFF",
+    "gold": "#E3B121",
+    "orange": "#E97135",
+    "brand": "#00A7E1",
+    "brandAccessible": "#007EA8",
+    "brandLight": "#B3EFFF",
+    "brandDark": "#003B5D",
+    "red": "#C40C0C",
+    "green": "#00A860",
+    "neutral": {
+      "gray": {
+        "1": "#44494B",
+        "2": "#5D6165",
+        "3": "#C5CACE",
+        "4": "#DFE4E7",
+        "5": "#F5F8FA"
+      },
+      "transparent": "transparent",
+      "current": "currentColor"
+    }
+  },
+  "spacing": {
+    "0": "0",
+    "px": "1px",
+    "2xs": "0.25rem",
+    "xs": "0.5rem",
+    "sm": "0.75rem",
+    "base": "1rem",
+    "md": "1.5rem",
+    "lg": "2rem",
+    "xl": "3rem",
+    "2xl": "4rem",
+    "3xl": "6rem",
+    "4xl": "8rem",
+    "5xl": "12rem",
+    "6xl": "16rem"
+  }
+}

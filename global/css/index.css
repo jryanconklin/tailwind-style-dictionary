@@ -1,0 +1,6 @@
+/* These don't work in dist/ currently, but a more complex build system would provide. */
+@import 'base/_variables.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

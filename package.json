@@ -1,0 +1,20 @@
+{
+  "name": "tailwind-style-dictionary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "serve",
+    "tokens": "style-dictionary build --config tokens.config.json",
+    "tw.watch": "npx tailwindcss -i ./global/css/index.css -o ./dist/styles.css --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.3.4",
+    "postcss": "^8.3.6",
+    "serve": "^12.0.1",
+    "style-dictionary": "^3.0.2",
+    "tailwindcss": "^2.2.15"
+  }
+}
