@@ -18,8 +18,8 @@ This will launch a dev server with hello, world! All site tokens have been are p
 
 To change tokens for spacing and color, visit the [tokens](./src/assets/tokens) directory. You can add
 as many JSON files here as makes sense. By running `npm run tokens` you will re-write the CSS Custom Properties
-[file](./src/assets/css/base/_variables.css) and update the [tokens](./src/assets/tailwind-tokens.json)
-file for Tailwind.
+[file](./src/assets/css/base/_variables.css) and update the [Tailwind Tokens](./src/tailwind-tokens.json)
+file.
 
 Note: if you are adding tokens, simply updating the Tailwind Tokens file is not enough to update your Tailwind
 configuration. You will also need to manually add your new key in Tailwind [configuration](./tailwind.config.js).
